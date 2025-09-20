@@ -67,6 +67,7 @@ form input{
 
 .msg{
     margin: 2rem 0 2rem 0;
+    font-weight: 700;
 }
 form button{
     height: 3rem;
