@@ -8,7 +8,7 @@ A simple, responsive **Currency Converter** web app built with **HTML**, **CSS**
 - ✅ Convert any currency to another in real-time  
 - ✅ Default conversion: **1 USD → INR**  
 - ✅ Auto-updating country flags for selected currencies  
-- ✅ Responsive and clean UI  
+- ✅ Responsive and clean UI.
 
 ---
 
